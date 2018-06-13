@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-image: url('../images/world-map.png');
+	background-position: center -180px;
+}
+
+h1 {
+	letter-spacing: 4px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	letter-spacing: 2px;
+	text-align: justify;
+	font-family: cursive;
+	font-style: italic;
+	font-weight: normal;
+
+}
+
+.list a {
+	color: blue;
+	text-decoration: none;
+}
+
+.list a:visited {
+	color: darkgrey;
+}
+
+.list a:hover {
+	color: red;
+}
+
+p {
+	text-indent: 20px;
+}

@@ -9,11 +9,17 @@
 3. Залить первое домашнее задание в свой github-репозиторий
 Полезные ссылки:
 
-1. [Sublime Text](https://www.sublimetext.com/3) - старый-добрый, провереный временем, редактор кода
-2. [Emmet](http://emmet.io/) - плагин для редактора кода, который делает магию в стиле `div -> <div></div>`
-3. [Валидатор](https://validator.w3.org/)
-4. [Хорошая статья о валидности](http://www.xiper.net/collect/weekdays-front-end-dev/for-owner-oline-business/valid-html.html), рекомендовано к прочтению
-5. [Doctype](http://www.xiper.net/manuals/html/tags/DOCTYPE.html)
-6. [Новый Doctype и HTML5](http://habrahabr.ru/post/115177/)
+1. [Photoshop для кодера](http://xiper.net/learn/photoshop/), это цикл статей, нужно читать с первой (внизу страницы). Рекомендовано прочесть все на досуге
+2. [25 полезных шорткатов для Photoshop](http://geektimes.ru/post/140060/)
+3. [Горячие клавиши русского и английского Фотошопа CS6](http://rugraphics.ru/photoshop/goryachie-klavishi-russkogo-i-angliyskogo-fotoshopa-cs5)
+3. [Sublime Text](https://www.sublimetext.com/3) - старый-добрый, провереный временем, редактор кода
+4. [Emmet](http://emmet.io/) - плагин для редактора кода, который делает магию в стиле `div -> <div></div>`
+5. [Валидатор](https://validator.w3.org/)
+6. [Хорошая статья о валидности](http://www.xiper.net/collect/weekdays-front-end-dev/for-owner-oline-business/valid-html.html), рекомендовано к прочтению
+7. [Doctype](http://www.xiper.net/manuals/html/tags/DOCTYPE.html)
+8. [Новый Doctype и HTML5](http://habrahabr.ru/post/115177/)
+9. [Блочные элементы на htmlbook.ru](http://htmlbook.ru/samlayout/blochnaya-verstka/blochnye-elementy)
+10. [Строчные элементы на htmlbook.ru](http://htmlbook.ru/samlayout/blochnaya-verstka/strochnye-elementy)
+12. [Семантический HTML — рекомендация с большими выгодами](http://xiper.net/learn/tegofenshuj/about-semantic)
 
 Помните, что один из самых важных навыков программиста - умение искать информацию. Это то, чем вам придется заниматься большинство времени в течении обучения, и то, чем занимаются программисты практически каждый день. Вам придется много гуглить, искать решения проблем, с которыми раньше не сталкивались, и это хорошо. Такая практика даст вам если не самый важный, то точно один из важнейших навыков разработчика. Не бойтесь чего-то не знать, ищите решения ваших проблем. В большинстве случаев вашу задачу уже кто-то решал, и такие решения частенько есть на stackoverflow. И только после десятков часов обучения и решения разных задач, у вас будет появляться свой личный опыт, который поможет уже не просто копипастить, а создавать что-то свое.

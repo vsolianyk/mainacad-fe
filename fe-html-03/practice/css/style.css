@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #fff url() left top no-repeat;
+}
+
+header,
+footer {
+	padding: 10px 15px;
+	background-color: purple;
+}
+
+header button,
+footer button {
+	padding: 10px 15px;
+	background-color: blue;
+	color: #ff99dd;
+}
+
+header {
+	text-align: right;
+}
+
+.content {
+	margin: 20px;
+	padding: 15px;
+	border: 1px solid #0000ff;
+}
+
+.content p {
+	margin: 10px;
+	background: #ffff00;
+}
+
+.content p button,
+.content p a {
+	display: inline-block;
+	padding: 5px;
+	
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	background: #ff9900;
+	color: #000;
+}
+
+.subscribe {
+	background: #fff;
+	color: #2222dd;
+}
