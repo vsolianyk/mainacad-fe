@@ -10,11 +10,10 @@
 
 Полезные ссылки:
 
-6. [Box model — блочная модель](http://www.xiper.net/learn/css/box-model/what-is-the-box-model.html)
+1. [Box model — блочная модель](http://www.xiper.net/learn/css/box-model/what-is-the-box-model.html)
 
-1. [Float'омания: разъяснение как работает css свойство float](http://habrahabr.ru/post/136588/)
-2. [Всё о свойстве float](http://www.css-tricks.ru/articles/details/AllAboutFloats)
-3. [clearfix](http://xiper.net/collect/html-and-css-tricks/css-tricks/clearfix)
+2. [Float'омания: разъяснение как работает css свойство float](http://habrahabr.ru/post/136588/)
+3. [Всё о свойстве float](http://www.css-tricks.ru/articles/details/AllAboutFloats)
 4. [Clear или overflow:hidden — очистка всего потока или создание контекста форматирования?](http://habrahabr.ru/post/48383/)
 5. [inline-block: простое свойство для непростых задач](http://www.xiper.net/collect/html-and-css-tricks/pozitsionirovanie/inline-block-simple-property-for-complex-tasks.html)
 6. [Убираем отступы между строчными элементами](http://xiper.net/collect/html-and-css-tricks/pozitsionirovanie/inline-block-margins), здесь есть пример реализации горизонтального меню
